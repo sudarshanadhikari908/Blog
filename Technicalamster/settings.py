@@ -27,7 +27,7 @@ SECRET_KEY = 'y9mfv-w=&32b9d7h2t&w)3i7ucs!p8-0f#-=sj2#pr=hy@d-c('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://sudan-blogs.herokuapp.com/']
 
 
 # Application definition
